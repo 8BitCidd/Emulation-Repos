@@ -11,6 +11,7 @@
 - https://github.com/libretro/RetroArch
 - https://github.com/RetroPie/RetroPie-Setup
 - https://github.com/batocera-linux/batocera.linux
+- https://eden-emu.dev/
 
 [PC Ports]
   - https://github.com/HarbourMasters
