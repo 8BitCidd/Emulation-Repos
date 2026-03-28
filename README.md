@@ -25,10 +25,10 @@
   <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn</li>
 </ul>
 
-<h3>Multi-System</h3>
+<h3>[Multi-System]</h3>
 
 <ul>
-  <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emaulation frontend.</li>
+  <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emulation frontend.</li>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
 </ul>
