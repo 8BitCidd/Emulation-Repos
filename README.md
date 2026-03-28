@@ -2,15 +2,15 @@
 <h1 align="center">My Favorite Repos</h1>
 
 <p align="center">
-  A curated collection of awesome tools and scripts
+  A curated collection of awesome Repositories and Websites
 </p>
 
 <hr>
 
-<h2>🔥 Featured</h2>
+<h2>🔥 Emulation</h2>
 
 <ul>
-  <li><a href="https://github.com/...">Cool Repo 1</a></li>
+  <li><a href="[https://github.com/...](https://github.com/Ryubing)">Ryubing</a></li>
   <li><a href="https://github.com/...">Cool Repo 2</a></li>
 </ul>
 
