@@ -4,7 +4,7 @@
   A curated collection of Repositories and Websites
 </p>
 
-<a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulators">Emulators</a> -  <a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulation-os">Emulation OS</a> - <a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulation-tools">Enulation Tools</a>
+<a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulators">Emulators</a> -  <a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulation-os">Emulation OS</a> - <a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulation-tools">Emulation Tools</a> - 
 
 <hr>
 
@@ -28,6 +28,7 @@
 <h3>Multi-System</h3>
 
 <ul>
+  <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emaulation frontend.</li>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
 </ul>
@@ -48,7 +49,6 @@
 <ul>
   <li><a href="https://github.com/zurdi15/romm">ROMM</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/Matteo842/SaveState">SaveSate</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
-  <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emaulation frontend.</li>
 </ul>
 
 <hr>
