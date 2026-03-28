@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2> :Nintendo: Emulation</h2>
+<h2>:Heart:Emulation</h2>
 
 <h3>Nintendo</h3>
 <ul>
