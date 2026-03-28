@@ -1,4 +1,3 @@
-# Emulation-Repos
 <h1 align="center">My Favorite Repos</h1>
 
 <p align="center">
