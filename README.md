@@ -32,7 +32,7 @@
 
 <hr>
 
-<h2>Emulation Operating Systems</h2>
+<h2>Emulation OS</h2>
 
 <ul>
   <li><a href="https://github.com/RetroPie/RetroPie-Setup">RetroPie</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
