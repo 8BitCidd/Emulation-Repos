@@ -12,14 +12,13 @@
 <h3>Nintendo</h3>
 <ul>
   <li><a href="https://eden-emu.dev/">EDEN</a> - An open-source emulator for the Nintendo Switch</li> 
-  <li><a href="https://github.com/cemu-project/Cemu">CEMU (GitHub)</a> - An open-source emualtor for Nintendo WiiU</li>
+  <li><a href="https://github.com/cemu-project/Cemu">CEMU</a> - An open-source emualtor for Nintendo WiiU</li>
 </ul>
 
 <h3>Sega Saturn</h3>
 
 <ul>
-  <li><a href="https://eden-emu.dev/">YMIR</a></li>
-  <p>An open-sopurce Sega Saturn emulator.</p>
+  <li><a href="https://eden-emu.dev/">YMIR</a> - An open-source emulator for Sega Saturn </li>
 </ul>
 
 
