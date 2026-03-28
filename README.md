@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>:Heart:Emulation</h2>
+<h2>Emulation</h2>
 
 <h3>Nintendo</h3>
 <ul>
@@ -20,7 +20,7 @@
 <h3>Sega Saturn</h3>
 
 <ul>
-  <li><a href="https://eden-emu.dev/">YMIR</a> - An open-source emulator for Sega Saturn </li>
+  <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn </li>
 </ul>
 
 
@@ -31,7 +31,7 @@
 - https://github.com/Rakashazi/emu-ex-plus-alpha
 - https://github.com/jimbob4000/RetroFlow-Launcher
 - https://github.com/Matteo842/SaveState
-- https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3
+- 
 - https://github.com/libretro/RetroArch
 - https://github.com/RetroPie/RetroPie-Setup
 - https://github.com/batocera-linux/batocera.linux
