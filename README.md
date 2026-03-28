@@ -60,7 +60,7 @@
   <li><a href="https://github.com/HarbourMasters">Harbour Master</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/Matteo842/SaveState">SaveSate</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
   <li><a href="https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1">PureRGB</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
-  <li><a href="https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases">Super Mario Bros. Remastered</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public">Super Mario Bros. Remastered</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/Kurausukun/pokeemerald/tree/pc_port">PokeEmerald</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/BanjoRecomp/BanjoRecomp">BanjoRecomp</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/klorfmorf/Goemon64Recomp">Goemon64Recomp</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
