@@ -1,8 +1,8 @@
-# awesome-repos
+# Emulation-Repos
 <h1 align="center">My Favorite Repos</h1>
 
 <p align="center">
-  A curated collection of awesome Repositories and Websites
+  A curated collection of Repositories and Websites
 </p>
 
 <hr>
