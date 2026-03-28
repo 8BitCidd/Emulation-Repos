@@ -69,7 +69,13 @@
 
 <hr>
 
-[Tools]
-- https://github.com/codeusa/borderless-gaming/releases
-- https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/tree/main
-- https://github.com/Davidobot/BetterJoy?tab=readme-ov-file
+
+<h2>Other Gaming Resources</h2>
+
+<ul>
+  <li><a href="https://github.com/codeusa/borderless-gaming/releases">Borderless Gaming</a> - An application that lets you play your favorite games in a borderless window.</li>
+  <li><a href="https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/tree/main">Flycast Master Widescreen Compatibility and Cheat Chart</a> - This is a chart  tracking Dreamcast games and their compatibility with Widescreen patches and Cheats.</li>
+  <li><a href="https://github.com/Davidobot/BetterJoy?tab=readme-ov-file">BetterJoy</a> - An application that allows you to use the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, and as generic XInput</li>
+</ul>
+
+<hr>
