@@ -17,6 +17,11 @@
   - https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1
   - https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases
   - https://github.com/Kurausukun/pokeemerald/tree/pc_port
+  - https://github.com/BanjoRecomp/BanjoRecomp
+  - https://github.com/Sebastrion/awesome-unofficial-pc-ports
+  - https://github.com/klorfmorf/Goemon64Recomp
+  - https://github.com/ai-tdd-labs/harvest-moon-64-recompiled
+  - https://github.com/sp00nznet/Rampage
 
 [Tools]
 - https://github.com/codeusa/borderless-gaming/releases
