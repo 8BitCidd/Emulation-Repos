@@ -11,7 +11,7 @@
 
 <h3>Nintendo</h3>
 <ul>
-  <li><a href="https://eden-emu.dev/">Ryubing</a></li>
+  <li><a href="https://eden-emu.dev/">Eden - Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind. It is written in C++ with cross-platform support for Windows, Linux, FreeBSD, Solaris, OpenBSD, and Android.</a></li>
   <li><a href="https://github.com/...">Cool Repo 2</a></li>
 </ul>
 
