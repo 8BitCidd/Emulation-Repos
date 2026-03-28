@@ -8,6 +8,9 @@
 - https://github.com/jimbob4000/RetroFlow-Launcher
 - https://github.com/Matteo842/SaveState
 - https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3
+- https://github.com/libretro/RetroArch
+- https://github.com/RetroPie/RetroPie-Setup
+- https://github.com/batocera-linux/batocera.linux
 
 [PC Ports]
   - https://github.com/HarbourMasters
