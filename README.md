@@ -27,6 +27,16 @@
 
 <ul>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
+  <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
+</ul>
+
+<hr>
+
+<h2>Emulation Operating Systems</h2>
+
+<ul>
+  <li><a href="https://github.com/RetroPie/RetroPie-Setup">RetroPie</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/batocera-linux/batocera.linux">Batocera Linux</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
 </ul>
 
 <hr>
@@ -36,14 +46,10 @@
 <ul>
   <li><a href="https://github.com/zurdi15/romm">ROMM</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/Matteo842/SaveState">SaveSate</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
-  <li><a href="https://github.com/jimbob4000/RetroFlow-Launcher">RetroFlow Lanuncher</a> - A modded veriosn of HexFLow Lancher for the PlayStation Vita.</li>
+  <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emaulation frontend.</li>
 </ul>
 
 <hr>
-
-- https://github.com/libretro/RetroArch
-- https://github.com/RetroPie/RetroPie-Setup
-- https://github.com/batocera-linux/batocera.linux
 
 [PC Ports]
   - https://github.com/HarbourMasters
