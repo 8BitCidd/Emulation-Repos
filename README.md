@@ -4,6 +4,8 @@
   A curated collection of Repositories and Websites
 </p>
 
+<a href="https://github.com/8BitCidd/Emulation-Repos/blob/main/README.md#emulators">EDEN</a> -  
+
 <hr>
 
 <h2>Emulators</h2>
