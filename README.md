@@ -23,6 +23,8 @@
   <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn </li>
 </ul>
 
+<hr>
+
 <h2>Emulation Tools</h2>
 
 <ul>
