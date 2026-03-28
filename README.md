@@ -12,7 +12,7 @@
 <h3>Nintendo</h3>
 <ul>
   <li><a href="https://eden-emu.dev/">EDEN</a> - An open-source emulator for the Nintendo Switch</li>
-  <li><a href="https://git.ryujinx.app/ryubing/ryujinx)">Ryjinx</a> - An open-source emulator for the Nintendo Switch</li>
+  <li><a href="https://git.ryujinx.app/ryubing/ryujinx)">Ryujinx</a> - Another open-source emulator for the Nintendo Switch</li>
   <li><a href="https://github.com/cemu-project/Cemu">CEMU</a> - An open-source emualtor for Nintendo WiiU</li>
 </ul>
 
