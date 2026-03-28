@@ -1,7 +1,21 @@
 # awesome-repos
 [Emulation]
 - https://github.com/Ryubing
+- https://github.com/pj64team/Project64-Legacy
+- https://github.com/dolphin-emu/dolphin
+- https://github.com/zurdi15/romm
+- https://github.com/Rakashazi/emu-ex-plus-alpha
+- https://github.com/jimbob4000/RetroFlow-Launcher
+- https://github.com/Matteo842/SaveState
+- https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3
 
 [PC Ports]
   - https://github.com/HarbourMasters
   - https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1
+  - https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases
+  - https://github.com/Kurausukun/pokeemerald/tree/pc_port
+
+[Tools]
+- https://github.com/codeusa/borderless-gaming/releases
+- https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/tree/main
+- https://github.com/Davidobot/BetterJoy?tab=readme-ov-file
