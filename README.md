@@ -1,4 +1,19 @@
 # awesome-repos
+<h1 align="center">My Favorite Repos</h1>
+
+<p align="center">
+  A curated collection of awesome tools and scripts
+</p>
+
+<hr>
+
+<h2>🔥 Featured</h2>
+
+<ul>
+  <li><a href="https://github.com/...">Cool Repo 1</a></li>
+  <li><a href="https://github.com/...">Cool Repo 2</a></li>
+</ul>
+
 [Emulation]
 - https://github.com/Ryubing
 - https://github.com/pj64team/Project64-Legacy
