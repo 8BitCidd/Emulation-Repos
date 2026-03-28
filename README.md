@@ -15,6 +15,7 @@
   <li><a href="https://git.ryujinx.app/ryubing/ryujinx)">Ryujinx</a> - Another open-source emulator for the Nintendo Switch</li>
   <li><a href="https://github.com/cemu-project/Cemu">CEMU</a> - An open-source emualtor for Nintendo WiiU</li>
   <li><a href="https://github.com/pj64team/Project64-Legacy">Project64 - Legacy</a> - An open-source emualtor for Nintendo 64</li>
+  <li><a href="https://github.com/dolphin-emu/dolphin">Dolphin</a> - An open-source emualtor for Nintendo Gamecube & Wii</li>
 </ul>
 
 <h3>Sega Saturn</h3>
@@ -26,7 +27,7 @@
 
 [Emulation]
 - 
-- https://github.com/dolphin-emu/dolphin
+- 
 - https://github.com/zurdi15/romm
 - https://github.com/Rakashazi/emu-ex-plus-alpha
 - https://github.com/jimbob4000/RetroFlow-Launcher
