@@ -1,4 +1,4 @@
-<h1 align="center">My Favorite Repos</h1>
+<h1 align="center">My Favorite Repos and Sites</h1>
 
 <p align="center">
   A curated collection of Repositories and Websites
