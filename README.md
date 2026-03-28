@@ -21,7 +21,7 @@
 
 <ul>
   <li><a href="https://eden-emu.dev/">YMIR</a></li>
-  <p>A work-in-progress Sega Saturn emulator.</p>
+  <p>An open-sopurce Sega Saturn emulator.</p>
 </ul>
 
 
