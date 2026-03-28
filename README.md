@@ -17,10 +17,10 @@
   <li><a href="https://github.com/dolphin-emu/dolphin">Dolphin</a> - An open-source emualtor for Nintendo Gamecube & Wii</li>
 </ul>
 
-<h3>Sega Saturn</h3>
+<h3>Sega</h3>
 
 <ul>
-  <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn </li>
+  <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn</li>
 </ul>
 
 <h3>Multi System</h3>
