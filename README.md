@@ -9,8 +9,9 @@
 
 <h2>🔥 Emulation</h2>
 
+<h3>Nintendo
 <ul>
-  <li><a href="https://github.com/Ryubing" target="_blank" rel="noopener noreferrer">Ryubing</a></li>
+  <li><a href="https://eden-emu.dev/>Ryubing</a></li>
   <li><a href="https://github.com/...">Cool Repo 2</a></li>
 </ul>
 
