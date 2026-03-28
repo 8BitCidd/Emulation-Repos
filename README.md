@@ -11,9 +11,11 @@
 
 <h3>Nintendo</h3>
 <ul>
-  <li><a href="https://eden-emu.dev/">Eden</a></li>
+  <li><a href="https://eden-emu.dev/">EDEN</a></li>
   <p>Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind. It is written in C++ with cross-platform support for Windows, Linux, FreeBSD, Solaris, OpenBSD, and Android.</p>
-  <li><a href="https://github.com/...">Cool Repo 2</a></li>
+  <li><a href="https://github.com/...">CEMU</a></li>
+   <p>Software to emulate Wii U games and applications on PC</p>
+  Software to emulate Wii U games and applications on PC
 </ul>
 
 [Emulation]
