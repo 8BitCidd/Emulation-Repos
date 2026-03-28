@@ -12,6 +12,7 @@
 - https://github.com/RetroPie/RetroPie-Setup
 - https://github.com/batocera-linux/batocera.linux
 - https://eden-emu.dev/
+- http://cemu.info/
 
 [PC Ports]
   - https://github.com/HarbourMasters
