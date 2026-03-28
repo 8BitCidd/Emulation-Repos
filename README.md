@@ -10,7 +10,7 @@
 <h2>🔥 Emulation</h2>
 
 <ul>
-  <li><a href="https://github.com/Ryubing" target="_blank">Ryubing</a></li>
+  <li><a href="https://github.com/Ryubing" target="_blank" rel="noopener noreferrer">Ryubing</a></li>
   <li><a href="https://github.com/...">Cool Repo 2</a></li>
 </ul>
 
