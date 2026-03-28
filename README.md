@@ -21,7 +21,7 @@
 
 <ul>
   <li><a href="https://eden-emu.dev/">YMIR</a></li>
-  <p>Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind. It is written in C++ with cross-platform support for Windows, Linux, FreeBSD, Solaris, OpenBSD, and Android.</p>
+  <p>A work-in-progress Sega Saturn emulator.</p>
 </ul>
 
 
