@@ -25,7 +25,7 @@
   <li><a href="https://github.com/StrikerX3/Ymir/releases/tag/v0.1.3">YMIR</a> - An open-source emulator for Sega Saturn</li>
 </ul>
 
-<h3>[Multi-System]</h3>
+<h3>Multi-System</h3>
 
 <ul>
   <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emulation frontend.</li>
@@ -53,16 +53,22 @@
 
 <hr>
 
-[PC Ports]
-  - https://github.com/HarbourMasters
-  - https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1
-  - https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases
-  - https://github.com/Kurausukun/pokeemerald/tree/pc_port
-  - https://github.com/BanjoRecomp/BanjoRecomp
-  - https://github.com/Sebastrion/awesome-unofficial-pc-ports
-  - https://github.com/klorfmorf/Goemon64Recomp
-  - https://github.com/ai-tdd-labs/harvest-moon-64-recompiled
-  - https://github.com/sp00nznet/Rampage
+<h2>PC Ports</h2>
+
+<ul>
+  <li><a href="https://github.com/Sebastrion/awesome-unofficial-pc-ports">Awesome Unofficial PC Ports</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/HarbourMasters">Harbour Master</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/Matteo842/SaveState">SaveSate</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
+  <li><a href="https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1">PureRGB</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public/releases">Super Mario Bros. Remastered</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/Kurausukun/pokeemerald/tree/pc_port">PokeEmerald</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/BanjoRecomp/BanjoRecomp">BanjoRecomp</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/klorfmorf/Goemon64Recomp">Goemon64Recomp</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/ai-tdd-labs/harvest-moon-64-recompiled">Harvet Moon 64 Recompiled</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+  <li><a href="https://github.com/sp00nznet/Rampage">Rampage Wolrd Tour</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
+</ul>
+
+<hr>
 
 [Tools]
 - https://github.com/codeusa/borderless-gaming/releases
