@@ -1,8 +1,7 @@
 # awesome-repos
 [Emulation]
-- https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1
 - https://github.com/Ryubing
 
 [PC Ports]
-  [N64]
   - https://github.com/HarbourMasters
+  - https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1
