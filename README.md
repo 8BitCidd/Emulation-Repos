@@ -65,7 +65,7 @@
   <li><a href="https://github.com/klorfmorf/Goemon64Recomp">Goemon64Recomp</a> - A pc port of Goemon 64 or better knwon in the west as Mystical Ninja Starring Goemon from the N64.</li>
   <li><a href="https://github.com/ai-tdd-labs/harvest-moon-64-recompiled">Harvet Moon 64 Recompiled</a> - A pc port for Harvert Moon 64 from the N64.</li>
   <li><a href="https://github.com/sp00nznet/Rampage">Rampage</a> - A pc port project for Rampage World Tour from the N64.</li>
-  <li><a href="https://github.com/MegaMan64Recomp/MegaMan64Recompiled">Megaman Recomp</a> - A pc port for Megaman 64.</li>
+  <li><a href="https://github.com/MegaMan64Recomp/MegaMan64Recompiled">Megaman Recompiled</a> - A pc port for Megaman 64.</li>
 </ul>
 
 <hr>
