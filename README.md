@@ -70,7 +70,6 @@
 
 <hr>
 
-
 <h2>Other Gaming Resources</h2>
 
 <ul>
@@ -78,6 +77,7 @@
   <li><a href="https://github.com/nexus382/Flycast-Widescreen-Compatability-And-Cheat-Chart/tree/main">Flycast Master Widescreen Compatibility and Cheat Chart</a> - This is a chart  tracking Dreamcast games and their compatibility with Widescreen patches and Cheats.</li>
   <li><a href="https://github.com/Davidobot/BetterJoy?tab=readme-ov-file">BetterJoy</a> - An application that allows you to use the Nintendo Switch Pro Controller, Joycons and SNES controller to be used with CEMU, Citra, Dolphin, and as generic XInput</li>
   <li><a href="https://consolevariations.com/">Consolevariations</a> - A database that contains data regarding video game consoles.</li>
+ <li><a href="https://github.com/THZoria/NX_Firmware">NX Firmware</a></li>
 </ul>
 
 <hr>
