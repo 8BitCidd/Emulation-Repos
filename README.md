@@ -67,6 +67,7 @@
   <li><a href="https://github.com/ai-tdd-labs/harvest-moon-64-recompiled">Harvet Moon 64 Recompiled</a> - A pc port for Harvert Moon 64 from the N64.</li>
   <li><a href="https://github.com/sp00nznet/Rampage">Rampage</a> - A pc port project for Rampage World Tour from the N64.</li>
   <li><a href="https://github.com/MegaMan64Recomp/MegaMan64Recompiled">Megaman Recompiled</a> - A pc port for Megaman 64.</li>
+  <li><a href="https://github.com/SMCGames/Paper-Mario-ReCut">Paper-Mario-ReCut</a> - A pc port for Paper Mario for the Nintendo 64.</li>
 </ul>
 
 <hr>
