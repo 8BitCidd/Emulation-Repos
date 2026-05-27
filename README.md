@@ -30,7 +30,6 @@
 <ul>
   <li><a href="https://github.com/libretro/RetroArch">RetroArch</a> - A multi-system emulation frontend.</li>
   <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
-  <li><a href="https://github.com/Rakashazi/emu-ex-plus-alpha">EX Emulators</a> - A multi-emulator project for Android & Linux that includes emualators for various systems that share a common application framework library.</li>
 </ul>
 
 <hr>
