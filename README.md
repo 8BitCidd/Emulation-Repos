@@ -57,7 +57,7 @@
 <ul>
   <li><a href="https://github.com/Sebastrion/awesome-unofficial-pc-ports">Awesome Unofficial PC Ports</a> - Another repo tracking all known working PC ports.</li>
   <li><a href="https://github.com/TwilitRealm/dusklight/releases/tag/v1.0.1">Dusk</a> - PC Port of Twilight Princess.</li>
-  <li><a href="https://github.com/HarbourMasters">Harbour Master</a> - A collection of various N64 PC Ports.</li>
+  <li><a href="https://github.com/HarbourMasters">Harbour Masters</a> - A collection of various N64 PC Ports and more.</li>
   <li><a href="https://github.com/Vortyne/pureRGB/releases/tag/v2.7.1">PureRGB</a> - A pc port project for Pokemon Red/Green/Blue.</li>
   <li><a href="https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public">Super Mario Bros. Remastered</a> - An amazing pc port of the Original SUper Mario Bros. from the NES.</li>
   <li><a href="https://github.com/Kurausukun/pokeemerald/tree/pc_port">PokeEmerald</a> - A pc port project for Pokemon Emerald from the GameBoy Advance.</li>
