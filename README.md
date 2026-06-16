@@ -68,7 +68,8 @@
   <li><a href="https://github.com/MegaMan64Recomp/MegaMan64Recompiled">Megaman Recompiled</a> - A pc port for Megaman 64.</li>
   <li><a href="https://github.com/SMCGames/Paper-Mario-ReCut">Paper Mario ReCut</a> - A pc port for Paper Mario for the Nintendo 64.</li>
   <li><a href="https://github.com/fliperama86/cvlod_recomp">Castlevania - Legacy of Darkness Recomp</a> - A pc port for Castlevania - Legacy of Darkness for the Nintendo 64.</li>
-<li><a href="https://github.com/SunJaycy/GoldenEye-Recomp">Goldneye 007 - PC Recompilation</a> A pc port for Goldeneye 007 Xbox 360 / XBLA.</li>
+<li><a href="https://github.com/SunJaycy/GoldenEye-Recomp">Goldneye 007 - PC Recompilation</a> A pc port for never releassed remastered Goldeneye 007 Xbox 360 / XBLA.</li>
+<li><a href="https://dnzh-overclocked.com/">Duke Nukem Zero Hour Overclocked</a> A pc port for Duke Nukem Zero Hour N64.</li>
 </ul>
 
 <hr>
