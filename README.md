@@ -75,6 +75,15 @@
 
 <hr>
 
+<h2>Nintendo 3DS Ports</h2>
+
+<ul>
+  <li><a href="https://github.com/EstebanPdN/zelda-alttp-3ds">Zelda A Link to the Past 3DS</a> - Nintendo 3DS dual-screen port of Zelda A Link to the Past based on zelda3</li>
+  <li><a href="[https://github.com/TwilitRealm/dusklight/releases/tag/v1.0.1](https://github.com/EstebanPdN/zelda-tmc-3ds)">The Minish Cap 3DS</a> - Native Nintendo 3DS port of The Legend of Zelda: The Minish Cap based on Project Picori</li>
+</ul>
+
+<hr>
+
 <h2>Other Gaming Resources</h2>
 
 <ul>
