@@ -49,6 +49,7 @@
   <li><a href="https://github.com/zurdi15/romm">ROMM</a> - A beautiful, powerful, self-hosted ROM manager and player.</li>
   <li><a href="https://github.com/Matteo842/SaveState">SaveSate</a> - A user-friendly GUI application for Windows and Linux to easily back up and restore video game save files.</li>
   <li><a href="https://github.com/Yasome/FinalRom">Final ROM</a> - an all-in-one offline utility for working with your retro and console game ROMs.</li>
+ <li><a href="https://github.com/Abdess/retrobios/releases/tag/v2026.08.06">RetroBios</a> - Source-verified BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM, BizHawk, ROCKNIX, and MiSTer FPGA. Platform-native verification, with emulator source code as the deciding authority.</li>
 </ul>
 
 <hr>
