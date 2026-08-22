@@ -13,7 +13,6 @@
 <h3>Nintendo</h3>
 <ul>
   <li><a href="https://eden-emu.dev/">EDEN</a> - An open-source emulator for the Nintendo Switch</li>
-  <li><a href="https://git.ryujinx.app/ryubing/ryujinx)">Ryujinx</a> - Another open-source emulator for the Nintendo Switch</li>
   <li><a href="https://github.com/cemu-project/Cemu">CEMU</a> - An open-source emualtor for Nintendo WiiU</li>
   <li><a href="https://github.com/pj64team/Project64-Legacy">Project64 - Legacy</a> - An open-source emualtor for Nintendo 64</li>
   <li><a href="https://github.com/dolphin-emu/dolphin">Dolphin</a> - An open-source emualtor for Nintendo Gamecube & Wii</li>
