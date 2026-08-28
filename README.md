@@ -71,7 +71,7 @@
   <li><a href="https://github.com/fliperama86/cvlod_recomp">Castlevania - Legacy of Darkness Recomp</a> - A pc port for Castlevania - Legacy of Darkness for the Nintendo 64.</li>
 <li><a href="https://github.com/SunJaycy/GoldenEye-Recomp">Goldneye 007 - PC Recompilation</a> - A pc port for never releassed remastered Goldeneye 007 Xbox 360 / XBLA.</li>
 <li><a href="https://dnzh-overclocked.com/">Duke Nukem Zero Hour Overclocked</a> -  A pc port for Duke Nukem Zero Hour N64.</li>
-  https://github.com/kandowontu/starfox-enhanced
+<li><a href="https://github.com/kandowontu/starfox-enhanced">Starfox Enhanced</a>a> - A pc port of the Starfox for the SNES.
 </ul>
 
 <hr>
