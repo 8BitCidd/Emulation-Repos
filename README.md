@@ -72,7 +72,7 @@
 <li><a href="https://github.com/SunJaycy/GoldenEye-Recomp">Goldneye 007 - PC Recompilation</a> - A pc port for never releassed remastered Goldeneye 007 Xbox 360 / XBLA.</li>
 <li><a href="https://dnzh-overclocked.com/">Duke Nukem Zero Hour Overclocked</a> -  A pc port for Duke Nukem Zero Hour N64.</li>
 <li><a href="https://github.com/kandowontu/starfox-enhanced">Starfox Enhanced</a> - A pc port of the Starfox for the SNES.</li>
-<li><a href="https://github.com/Rainchus/Donkey-Kong-64-Recompiled/releases/tag/1.0.1">DOnkey Kong 64 Recomp</a> - A pc port of the Donkey Kong 64.</li>
+<li><a href="https://github.com/Rainchus/Donkey-Kong-64-Recompiled/releases/tag/1.0.1">Donkey Kong 64 Recomp</a> - A pc port of the Donkey Kong 64.</li>
 </ul>
 
 <hr>
